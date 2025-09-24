@@ -1,11 +1,11 @@
-# 📁・MyAlcoholEffect - Plugin d’effet alcool/drogue pour Nova-Life
+# 📁・MyAlcoholEffect - Plugin d’effet alcool pour Nova-Life
 
-MyAlcoholEffect est un plugin conçu pour le jeu **Nova-Life**, qui applique un effet de type "drogue" aux joueurs lorsqu’ils consomment de l’alcool de manière répétée. L’intensité et la durée de l’effet augmentent en fonction du nombre de consommations.
+MyAlcoholEffect est un plugin conçu pour le jeu **Nova-Life**, qui applique l'effet "cannabis" du jeu aux joueurs lorsqu’ils consomment de l’alcool de manière répétée. L’intensité et la durée de l’effet augmentent en fonction du nombre de consommations.
 
 ## ⭐・Fonctionnalités
 
 * Comptabilisation du nombre de consommations d’alcool par joueur.
-* Activation d’un effet "drogue" à partir de la **5ème consommation**.
+* Activation d’un effet "alcool" à partir de la **5ème consommation**.
 * Durée de l’effet croissante :
 
  * 5ème fois → **30 secondes**
