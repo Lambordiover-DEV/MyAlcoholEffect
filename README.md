@@ -5,12 +5,12 @@ MyAlcoholEffect est un plugin conçu pour le jeu **Nova-Life**, qui applique l'e
 ## ⭐・Fonctionnalités
 
 * Comptabilisation du nombre de consommations d’alcool par joueur.
-* Activation d’un effet "alcool" à partir de la **5ème consommation**.
+* Activation d’un effet "alcool" à partir de la **2ème consommation**.
 * Durée de l’effet croissante :
 
- * 5ème fois → **30 secondes**
-  * 6ème fois → **1 minute**
-  * 7ème fois → **1 minute 30**
+ * 2ème fois → **30 secondes**
+  * 3ème fois → **1 minute**
+  * 4ème fois → **1 minute 30**
   * etc. (+30 secondes à chaque consommation supplémentaire).
 * Le compteur de consommations se **réinitialise automatiquement après 5 minutes** si le joueur ne consomme plus d’alcool.
 
